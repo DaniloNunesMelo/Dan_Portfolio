@@ -8,7 +8,11 @@ The purpose of this portfolio is to bring some examples of technologies that I h
 ## [Spark Cluster](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-cluster)
 
 * Docker Compose - Using Docker Compose to create and manage Stand-Alone Spark Cluster.
+
+![running](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/spark-cluster/docker-compose/running.JPG?raw=true)
+
 * Terraform (In progress) - Using Terraform to create and manage Stand-Alone Spark Cluster.
+
 * Kubernetes (In progress) - Using Kubernetes to create and manage Stand-Alone Spark Cluster.
 
 ----------- 
