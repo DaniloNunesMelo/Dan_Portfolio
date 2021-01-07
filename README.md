@@ -19,7 +19,7 @@ The United Nations, Population Division provides the following information in a 
 * International Migration Flows to and from Selected Countries: The 2015 Revision
 * Data from 1980 to 2013
 
-Extract graphics using Python Pandas Library: 
+Extract, transform and load data to generate graphics, using Python Pandas Library: 
 
 1 - Shows the scatter through areas and years:
 
