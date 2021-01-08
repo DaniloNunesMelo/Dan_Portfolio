@@ -1,7 +1,5 @@
 # Dan Portfolio
 
-![Portfolio](https://github.com/DaniloNunesMelo/Dan_Portfolio/blob/main/DaniloNunesMelo-Dan_Portfolio-dark.png?raw=true)
-
 The purpose of this portfolio is to bring some examples of technologies that I have been learning to improve my knowledge.
 
 Click on the "</> link" to check the source code.
@@ -13,7 +11,6 @@ Click on the "</> link" to check the source code.
 
 * Docker Compose - Using Docker Compose to create and manage Stand-Alone Spark Cluster.
 
-![running](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/spark-cluster/docker-compose/running.JPG?raw=true)
 
 * Terraform (In progress) - Using Terraform to create and manage Spark Cluster.
 
