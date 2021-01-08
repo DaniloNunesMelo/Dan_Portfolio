@@ -11,6 +11,9 @@ Click on the "</> link" to check the source code.
 
 * Docker Compose - Using Docker Compose to create and manage Stand-Alone Spark Cluster.
 
+<p align="center">
+  <img src="https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/spark-cluster/docker-compose/running.JPG"?raw=true/>
+</p>
 
 * Terraform (In progress) - Using Terraform to create and manage Spark Cluster.
 
@@ -19,7 +22,7 @@ Click on the "</> link" to check the source code.
 ----------- 
 ## [</> Exploratory Data Analysis using Python](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/python-data-analysis)
 
-> Canada International Migration Flows Analysis:
+Canada International Migration Flows Analysis:
 The United Nations, Population Division provides the following information in a dateset:
 * International Migration Flows to and from Selected Countries: The 2015 Revision
 * Data from 1980 to 2013
