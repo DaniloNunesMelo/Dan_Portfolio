@@ -1,6 +1,6 @@
 # Dan Portfolio
 
-[</> Spark Cluster](https://github.com/DaniloNunesMelo/Dan_Portfolio/blob/main/DaniloNunesMelo-Dan_Portfolio-dark.png)
+![Portfolio](https://github.com/DaniloNunesMelo/Dan_Portfolio/blob/main/DaniloNunesMelo-Dan_Portfolio-dark.png?raw=true)
 
 The purpose of this portfolio is to bring some examples of technologies that I have been learning to improve my knowledge.
 
