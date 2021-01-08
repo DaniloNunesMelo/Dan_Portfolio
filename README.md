@@ -13,12 +13,12 @@ Click on the "</> link" to check the source code.
 
 ![running](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/spark-cluster/docker-compose/running.JPG?raw=true)
 
-* Terraform (In progress) - Using Terraform to create and manage Stand-Alone Spark Cluster.
+* Terraform (In progress) - Using Terraform to create and manage Spark Cluster.
 
-* Kubernetes (In progress) - Using Kubernetes to create and manage Stand-Alone Spark Cluster.
+* Kubernetes (In progress) - Using Kubernetes to create and manage Spark Cluster.
 
 ----------- 
-## [</> Data Analysis with Python](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/python-data-analysis)
+## [</> Exploratory Data Analysis using Python](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/python-data-analysis)
 
 > Canada International Migration Flows Analysis:
 The United Nations, Population Division provides the following information in a dateset:
