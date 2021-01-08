@@ -11,7 +11,7 @@ Click on the "</> link" to check the source code.
 
 * Docker Compose - Using Docker Compose to create and manage Stand-Alone Spark Cluster.
 
-![running] (https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/spark-cluster/docker-compose/running.JPG?raw=true)
+![running](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/spark-cluster/docker-compose/running.JPG?raw=true)
 
 * Terraform (In progress) - Using Terraform to create and manage Spark Cluster.
 
