@@ -29,19 +29,19 @@ Extract, transform and load data to generate graphics, using Python Pandas Libra
 
 1 - Shows the scatter through areas and years:
 
-![scatter](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows/scat.png?raw=true)
+![scatter](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows-Canada/scat.png?raw=true)
 
 2 - Distribution of the number of people by year Region
 
-![Disp1](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows/YearRegion.png?raw=true)
+![Disp1](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows-Canada/YearRegion.png?raw=true)
 
 3 - Distribution of the number of people by year Area
 
-![Disp2](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows/YearArea.png?raw=true)
+![Disp2](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows-Canada/YearArea.png?raw=true)
 
 4 - Immigration density by country by 2013
 
-![Map 2013](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows/Map2013.png?raw=true)
+![Map 2013](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/python-data-analysis/Inter-Migr-Flows-Canada/Map2013.png?raw=true)
 
 
 ----------- 
