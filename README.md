@@ -7,7 +7,7 @@ Click on the "</> link" to check the source code.
 ## Initiatives:
 ----------- 
 
-## [</> Spark Cluster](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-cluster)
+## [</> Spark Clusters](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-cluster)
 
 * Docker Compose - Using Docker Compose to create and manage Stand-Alone Spark Cluster.
 
