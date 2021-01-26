@@ -18,7 +18,7 @@ Click on the "</> link" to check the source code.
 * Kubernetes (In progress) - Using Kubernetes to create and manage Spark Cluster.
 
 ----------- 
-## [</> Exploratory Data Analysis using Python](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Inter-Migr-Flows-Italy)
+## [</> Exploratory Data Analysis using Pyspark](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Inter-Migr-Flows-Italy)
 
 * Using Jupyter Notebooks to explore
 
