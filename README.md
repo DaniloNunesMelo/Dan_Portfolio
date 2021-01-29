@@ -13,9 +13,6 @@ Click on the "</> link" to check the source code.
 
 ![SparkMaster](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/raw/master/spark-cluster/docker-compose/SparkMaster.JPG?raw=true)
 
-* Terraform (In progress) - Using Terraform to create and manage Spark Cluster.
-
-* Kubernetes (In progress) - Using Kubernetes to create and manage Spark Cluster.
 
 ----------- 
 ## [</> Exploratory Data Analysis using Pyspark](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Inter-Migr-Flows-Italy)
