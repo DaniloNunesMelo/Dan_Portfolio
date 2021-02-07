@@ -31,12 +31,13 @@ Click on the "</> link" to check the source code.
 
 ## [</> Pyspark Data Streaming](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Spark-Streaming)
 
-1. Using Cluster created in docker
-2. Explore data using Jupyter Notebooks
-3. Creating a script for data pipeline using spark-submit
-4. Using a shell script the simulate an ongoing data flow for streaming.
+* Using Cluster created in docker
 
+* Explore data using Jupyter Notebooks
 
+* Creating a script for data pipeline using spark-submit
+
+* Using a shell script the simulate an ongoing data flow for streaming.
 
 
 ----------- 
