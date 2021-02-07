@@ -29,7 +29,7 @@ Click on the "</> link" to check the source code.
 
 -----------
 
-## [</> Pyspark Data Streaming](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Spark-Streaming)
+## [</> Pyspark Structured Streaming](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Spark-Streaming)
 
 * Using Cluster created in docker
 
