@@ -5,6 +5,7 @@ The purpose of this portfolio is to bring some examples of technologies that I h
 Click on the "</> link" to check the source code.
 
 ## Initiatives:
+
 ----------- 
 
 ## [</> Spark Clusters](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-cluster)
@@ -15,6 +16,7 @@ Click on the "</> link" to check the source code.
 
 
 ----------- 
+
 ## [</> Exploratory Data Analysis using Pyspark](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Inter-Migr-Flows-Italy)
 
 * Using Jupyter Notebooks to explore
@@ -24,6 +26,18 @@ Click on the "</> link" to check the source code.
 * Spark Submit and monitoring
 
 * Generate HTML
+
+-----------
+
+## [</> Pyspark Data Streaming](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-data-analysis/Spark-Streaming)
+
+1. Using Cluster created in docker
+2. Explore data using Jupyter Notebooks
+3. Creating a script for data pipeline using spark-submit
+4. Using a shell script the simulate an ongoing data flow for streaming.
+
+
+
 
 ----------- 
 ## [</> Exploratory Data Analysis using Python](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/python-data-analysis)
@@ -53,6 +67,7 @@ Extract, transform and load data to generate graphics, using Python Pandas Libra
 
 
 ----------- 
+
 # [</> Shell Scripting](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/shell-scripting)
 
 * Automating Spark Installation
