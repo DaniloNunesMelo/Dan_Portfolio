@@ -72,3 +72,15 @@ Extract, transform and load data to generate graphics, using Python Pandas Libra
 # [</> Shell Scripting](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/shell-scripting)
 
 * Automating Spark Installation
+
+-----------
+
+# [</> Swift Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/SWIFT)
+
+* MT103 SWIFT Parser
+
+-----------
+
+# [</> PysPark Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/pyspark-transactions)
+
+* Contracts to transactions
