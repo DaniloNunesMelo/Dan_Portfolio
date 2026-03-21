@@ -6,6 +6,12 @@ Click on the "</> link" to check the source code.
 
 ## Initiatives:
 
+-----------
+
+# [</> PysPark Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/pyspark-transactions)
+
+![PysParkTransactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/5e82624d175b4855f8e7320c3f3a7d9a1145a121/pyspark-transactions/config/py-flow.png).
+
 ----------- 
 
 ## [</> Spark Clusters](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-cluster)
@@ -79,8 +85,5 @@ Extract, transform and load data to generate graphics, using Python Pandas Libra
 
 * MT103 SWIFT Parser
 
------------
-
-# [</> PysPark Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/pyspark-transactions)
 
 * Contracts to transactions
