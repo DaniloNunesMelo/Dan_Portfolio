@@ -10,6 +10,8 @@ Click on the "</> link" to check the source code.
 
 # [</> PysPark Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/pyspark-transactions)
 
+* Synthetic Data for emulating a genuine production environment with CICD, Coverage tests, etc
+  
 ![PysParkTransactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/blob/master/pyspark-transactions/config/py-flow.png)
 
 ----------- 
