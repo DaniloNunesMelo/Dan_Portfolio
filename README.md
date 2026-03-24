@@ -15,7 +15,7 @@ Click on the "</> link" to check the source code.
 ![PysParkTransactions](https://raw.githubusercontent.com/DaniloNunesMelo/Dan_Portfolio_Code/master/pyspark-transactions/config/py-flow.png)
 
 ----------- 
-# [</> Swift Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/SWIFT)
+# [</> Swift Transactions](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/swift)
 
 * MT103 SWIFT Parser
 * ISO 20022 / MX pacs.008 (New standard)
