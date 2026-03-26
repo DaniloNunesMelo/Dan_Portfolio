@@ -22,8 +22,18 @@ Click on the "</> link" to check the source code.
 
 ![swift](https://raw.githubusercontent.com/DaniloNunesMelo/Dan_Portfolio_Code/master/swift/artifacts/swift-python.png)
 
------------ 
+-----------
 
+# [</> Immigration Chart](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/immigration-chart)
+
+* Utilizing Antigravity and Claude Code to update outdated projects.
+* Chart for reviewing immigration statistics of Italy and Canada
+
+![swift](https://raw.githubusercontent.com/DaniloNunesMelo/Dan_Portfolio_Code/master/immigration-chart/artifacts/italy-canada.png)
+
+-----------
+
+## legacy projects ..
 ## [</> Spark Clusters](https://github.com/DaniloNunesMelo/Dan_Portfolio_Code/tree/master/spark-cluster)
 
 * Docker Compose - Using Docker Compose to create and manage Stand-Alone Spark Cluster.
